@@ -14,6 +14,4 @@
 
 
 
-- 😉 Atualmente estou aprendendo Desenvolvimento Web , HTML, CSS , Java Script.
-- 
-
+- 😉 Atualmente estou aprendendo Desenvolmento Web , HTML, CSS , Java Script
