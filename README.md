@@ -14,7 +14,7 @@
 
 
 
-- 😉 Atualmente estou aprendendo Desenvolmento Web , HTML, CSS , Java Script
+- 😉 Atualmente estou aprendendo Desenvolmento Web , HTML, CSS , JavaScript
 
 
 <div style="display: inline_block"><br>
